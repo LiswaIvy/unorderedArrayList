@@ -1,5 +1,5 @@
 #pragma once
-
+// declare constants and typedef
 const int MaxSize = 15;
 typedef  int DataType;
 
